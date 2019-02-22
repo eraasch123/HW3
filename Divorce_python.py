@@ -28,7 +28,5 @@ divorce.to_excel(excel_writer='clean_divorce.xlsx',           #naming the new ex
                 na_rep='null',                                  
                 index=False)
 
-
-# df.columns = df.columns.get_level_values(0)
   
 
